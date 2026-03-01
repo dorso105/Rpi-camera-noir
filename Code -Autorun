@@ -1,0 +1,7 @@
+  to run camera module automatically when Pi zero us turned on use;
+sudo apt update
+sudo apt full-upgrade
+sudo apt install rpicam-apps
+sudo nano /etc/systemd/system/rpicam-hello.service
+sudo systemctl enable rpicam-hello.service
+sudo systemctl start rpicam-hello.service
