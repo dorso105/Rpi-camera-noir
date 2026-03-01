@@ -11,6 +11,7 @@ Hardware includes
 5. [Battery](https://core-electronics.com.au/3-pin-lipo-battery-for-pijuice-zero-1000mah.html) if using the device without powersupply via cord 
        can use pi zero juice but files will not support it. - I am working on files to fit the [juice hat](https://core-electronics.com.au/waveshare-ups-hat-for-pi-zero.html)
 6. scews that fit hardware (m2.5)  Heated thread inserts are needed.
+7. **Stl files need to be upsized by 1% in slicer.**
 
 
 
