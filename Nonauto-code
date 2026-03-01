@@ -1,0 +1,6 @@
+    to run using app not auto
+
+sudo apt update
+sudo apt full-upgrade
+sudo apt install rpicam-apps
+rpicam-hello
